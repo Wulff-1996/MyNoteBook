@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyNoteBook Mandatory 2/Controllers/TableViewController.swift"
+            timestampString = "574700305.945446"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadNotes(tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyNoteBook Mandatory 2/Controllers/TableViewController.swift"
+            timestampString = "574700305.9455971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "loadNotes(tableView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyNoteBook Mandatory 2/Controllers/TableViewController.swift"
+            timestampString = "574700305.9457099"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "loadNotes(tableView:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyNoteBook_Mandatory_2.Global.loadNotes() -&gt; ()"
+                  moduleName = "MyNoteBook Mandatory 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jake/Desktop/IOS/projects/MyNoteBook%20Mandatory%202/MyNoteBook%20Mandatory%202/Controllers/TableViewController.swift"
+                  timestampString = "574617161.3429019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "2159">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyNoteBook_Mandatory_2.Global.loadNotes() -&gt; ()"
+                  moduleName = "MyNoteBook Mandatory 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jake/Desktop/IOS/projects/MyNoteBook%20Mandatory%202/MyNoteBook%20Mandatory%202/Controllers/TableViewController.swift"
+                  timestampString = "574617161.347719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyNoteBook Mandatory 2/Controllers/TableViewController.swift"
+            timestampString = "574700305.945824"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadNotes(tableView:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyNoteBook_Mandatory_2.Global.loadNotes() -&gt; ()"
+                  moduleName = "MyNoteBook Mandatory 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jake/Desktop/IOS/projects/MyNoteBook%20Mandatory%202/MyNoteBook%20Mandatory%202/Controllers/TableViewController.swift"
+                  timestampString = "574617161.358806"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "2159">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MyNoteBook_Mandatory_2.Global.loadNotes() -&gt; ()"
+                  moduleName = "MyNoteBook Mandatory 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jake/Desktop/IOS/projects/MyNoteBook%20Mandatory%202/MyNoteBook%20Mandatory%202/Controllers/TableViewController.swift"
+                  timestampString = "574617161.362169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
